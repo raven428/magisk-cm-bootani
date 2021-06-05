@@ -1,6 +1,6 @@
 id=cm-bootani
 name=CM boot animation
-version=1.01
+version=1.0.1
 versionCode=101
 author=raven428
 description=Systemless replace current ROM's boot animation from Cyanogenmod
