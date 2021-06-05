@@ -6,7 +6,7 @@ Systemless replace current ROM's boot animation from Cyanogenmod
 ### v1.01
 - Update for Magisk v20.4 and above
 
-### Version 1.00
+### v1.00
 - Initial release
 
 ## Credits
